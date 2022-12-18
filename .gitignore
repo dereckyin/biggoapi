@@ -1,0 +1,10 @@
+**/log
+.env
+/project/Dockerfile
+/project/app/__pycache__
+key.pem
+**/oracle_utils.py
+**/mysql_utils.py
+**/shopee_api_utils.py
+**/project_variables.py
+**/yahoo_api_utils.py

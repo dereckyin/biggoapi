@@ -1,0 +1,8 @@
+linecache2
+cx_Oracle
+fastapi
+hypercorn
+pydantic
+uvicorn
+requests
+Pillow
